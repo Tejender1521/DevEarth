@@ -1,7 +1,21 @@
 # DevEarth
-DevEarth is a social media platform for developers where developers can connect with other developers in their respective fields.
-</br>
-It is a small social network app that includes authentication, profiles and forum posts.
+* DevEarth is a social media platform for developers where developers can connect with other developers in their respective fields.
+* It is a small social network app that includes authentication, profiles and forum posts.
+* Dev Connector is a Social media for developers all around the world to share their developer stories, interesting insights and grow together.
+
+---
+## I have built this as a learning project. These were my learnings :
+
+* Building an extensive backend API with Node.js & Express
+* Protecting routes/endpoints with JWT (JSON Web Tokens)
+* Extensive API testing with Postman
+* Integrating React with our backend in an elegant way, creating a great workflow
+* Building our frontend to work with the API
+* Using Redux for app state management
+* Creating reducers and actions for our resources
+* Creating many container components that integrate with Redux
+* Testing with the Redux Chrome extension
+* Creating a build script, securing our keys and deploy to Heroku using Git
 
 ---
 
